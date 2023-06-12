@@ -8,6 +8,7 @@ Detection and Analysis of Plagiarism using NLP  Overview: This project aims to d
 2. NLP Libraries (e.g., NLTK) and n-grams
 3. Web Scraping (BeautifulSoup, requests) 
 4. Flask 
+5. GoogleSearch APIs
 
 The "Detection and Analysis of Plagiarism using NLP" project provides an effective solution to address plagiarism concerns, ensuring academic integrity and promoting ethical writing practices.
  
