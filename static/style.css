@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1526772668323-8a9b8675ca5a");
+    background-size: cover;
+}
+
+form {
+    margin: 50px auto;
+    width: 50%;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 30px;
+    border-radius: 10px;
+}
